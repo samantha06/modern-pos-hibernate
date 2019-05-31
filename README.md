@@ -1,6 +1,6 @@
 # Modern POS - Hibernate
 
-Podi ungea asawata hadapu ekak hodea.
+Assignment project for add hibernate to modern pos system
 
 ## License
 
